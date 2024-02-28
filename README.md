@@ -1,1 +1,1 @@
-If you want to modify the diagram please [edit](https://app.diagrams.net/?src=github#Hoggioniale/eLTER_SOs_relations/main/draw.io/SOs_relationships.drawio.xml) it 
+If you want to modify the diagram please [edit](https://app.diagrams.net/#Hoggioniale%2FeLTER_SOs_relations%2Fmain%2FStandard_Observations.drawio.xml#%7B%22pageId%22%3A%22ZShiGL7Zgp_9ACBQD5fn%22%7D) it 
